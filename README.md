@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bayan</h1>
 <h3 align="center">A junior Python Django developer</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HgneSNt2EbVsrodX89vQMqGT_uC6pLy2omsGK3EYARKC33heJu26gJpnD1GN1Y3iNFo&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayanalmaghrebi&label=Profile%20views&color=0e75b6&style=flat" alt="bayanalmaghrebi" /> </p>
 
